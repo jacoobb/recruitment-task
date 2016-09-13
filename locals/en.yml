@@ -1,0 +1,4 @@
+en:
+  errors:
+    not_a_number: price must be number
+    blank: name can't be blank
