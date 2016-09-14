@@ -1,5 +1,5 @@
 require 'active_model'
-require_relative 'array'
+require_relative 'lib/array'
 
 # TASK: Implement this class to make tests pass
 class BaseClass
